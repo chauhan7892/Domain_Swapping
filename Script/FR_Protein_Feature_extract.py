@@ -1,5 +1,5 @@
 import FR_Prot_Data
-
+# based on Biopython modules
 
 def Count_AA(seq):
 	Prot_letters = "ACDEFGHIKLMNPQRSTVWY"
